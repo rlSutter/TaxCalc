@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TaxCalc", "..\TaxCalc", "{9631960F-E253-4BAB-944A-97C0A5C60998}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/TaxCalc"
+		Debug.AspNetCompiler.PhysicalPath = "..\TaxCalc\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TaxCalc\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TaxCalc"
+		Release.AspNetCompiler.PhysicalPath = "..\TaxCalc\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TaxCalc\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64434"
+		SlnRelativePath = "..\TaxCalc\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9631960F-E253-4BAB-944A-97C0A5C60998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9631960F-E253-4BAB-944A-97C0A5C60998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDFC4E12-C56C-4CBA-AD10-07A7A74B4D31}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://hcitfs2012.hq.local:8080/tfs/hci_applications
+		SccWebProject0 = true
+		SccProjectUniqueName0 = .
+		SccProjectName0 = .
+		SccAuxPath0 = http://hcitfs2012.hq.local:8080/tfs/hci_applications
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectEnlistmentChoice0 = 2
+	EndGlobalSection
+EndGlobal
