@@ -136,7 +136,7 @@ public class verazip : IHttpHandler {
         }
         else
         {
-            // No parameters - test mode - HCI HQ specifics
+            // No parameters - test mode - Default test values
             StateCode = "VA";
             ZipCode = "22209";
             ZipExt = "2414";
